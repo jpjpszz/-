@@ -1,0 +1,14 @@
+## Nintendo Switch 分流
+
+DOMAIN-SUFFIX,nintendo.net
+DOMAIN-SUFFIX,nintendo.com
+DOMAIN-SUFFIX,nintendo.net
+DOMAIN-SUFFIX,ubi.com
+DOMAIN-SUFFIX,just-dance.com
+#SRC-IP-CIDR,192.168.1.195/32
+SRC-IP-CIDR,172.20.10.7/32
+
+
+
+
+
